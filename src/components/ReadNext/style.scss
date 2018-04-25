@@ -1,0 +1,14 @@
+@import '../../layouts/colors.scss';
+
+.footer {
+  margin-top: 50px;
+  text-align: center;
+  hr {
+    border-color: #333;
+    border-width: 3px;
+    width: 100%;
+  }
+  button {
+    width: 80%;
+  }
+}
